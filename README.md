@@ -1,2 +1,5 @@
 # hello-world
-new herer
+
+python beginner
+try to become a python engineers
+gogogo!
